@@ -366,3 +366,17 @@ contributors:
       contact_github: olgabot
       location: [37.765757, -122.387945]
       twitter: czbiohub
+
+    - full_name: Institute for Next Generation Healthcare
+      short_name: INGH
+      description: >
+        INGH is developing an integrated translational biomedical research model at the nexus of advances in –omics, clinical medicine, digital health, and artificial intelligence.
+      affiliation: Icahn School of Medicine at Mount Sinai Hospital
+      address: 770 Lexington Ave, New York, NY 10065
+      url: http://www.nextgenhealthcare.org
+      affiliation_url: https://icahn.mssm.edu/
+      image_fn: inghlogo.svg
+      contact: Jacqueline Buros Novik
+      contact_email: jacqueline.buros@mssm.edu
+      contact_github: jburos
+      location: [40.7631599, -73.9700713]
